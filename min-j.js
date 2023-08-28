@@ -13426,8 +13426,8 @@
                                   e.click();
                               },
                               children: [
-                                (0, G.jsx)("img", {
-                                  src: Ct,
+                                (0, G.jsx)("i", {
+                                  /*src: Ct,*/
                                   className: "download-icon",
                                 }),
                                 "تنزيل",
