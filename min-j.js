@@ -13220,7 +13220,7 @@
                                   }),
                                 }),
                               }),
-                            /*  (0, G.jsx)("li", {
+                              /*  (0, G.jsx)("li", {
                                 children: (0, G.jsx)("a", {
                                   href: "https://twitter.com/mbeshr",
                                   children: (0, G.jsx)("img", {
@@ -13436,7 +13436,7 @@
                           ],
                         }),
                         (0, G.jsxs)("div", {
-                                                        className: "notice",
+                          className: "notice",
                           children: [
                             "ملاحظة : في حال واجهت مشكلة في التنزيل قم بفتح الرابط من المتصفح",
                             " ",
