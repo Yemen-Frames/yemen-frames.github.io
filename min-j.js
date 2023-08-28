@@ -10895,12 +10895,13 @@
       },
       902: function (e, t, n) {
         "use strict";
-        e.exports = n.p + "/frame.png";
+        e.exports = n.p + "frame.png";
       },
       850: function (e, t, n) {
         "use strict";
-        e.exports = n.p + "/frame.png";
+        e.exports = n.p + "frame.png";
       },
+    /* icon button do */
       201: function (e, t, n) {
         "use strict";
         e.exports =
