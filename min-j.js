@@ -215,7 +215,7 @@
               checkCrossOrigin: !0,
               checkOrientation: !0,
               modal: !0,
-              guides: !0,
+              guides: 0,
               center: !0,
               highlight: !0,
               background: !0,
