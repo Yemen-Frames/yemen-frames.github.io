@@ -11290,7 +11290,7 @@
         }),
         f = {
           format: "image/png",
-          quality: 0.92,
+          quality: 100,
           width: void 0,
           height: void 0,
           Canvas: void 0,
