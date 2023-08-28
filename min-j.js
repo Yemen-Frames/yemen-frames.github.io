@@ -13288,10 +13288,10 @@
                               preview: ".preview-img",
                               src: n,
                               viewMode: 2,
-                              minCropBoxHeight: 10,
-                              minCropBoxWidth: 10,
+                              minCropBoxHeight: 100,
+                              minCropBoxWidth: 100,
                               background: !1,
-                              responsive: !0,
+                              responsive: !1,
                               autoCropArea: 1,
                               onInitialized: function (e) {
                                 f(e);
