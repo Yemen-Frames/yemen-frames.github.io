@@ -13220,7 +13220,7 @@
                                   }),
                                 }),
                               }),
-                              (0, G.jsx)("li", {
+                            /*  (0, G.jsx)("li", {
                                 children: (0, G.jsx)("a", {
                                   href: "https://twitter.com/mbeshr",
                                   children: (0, G.jsx)("img", {
@@ -13228,10 +13228,10 @@
                                     alt: "",
                                   }),
                                 }),
-                              }),
+                              }),*/
                               (0, G.jsx)("li", {
                                 children: (0, G.jsx)("a", {
-                                  href: "https://www.instagram.com/MohammedBeshrye/",
+                                  href: "https://instagram.com/MohammedBeshrye/",
                                   children: (0, G.jsx)("img", {
                                     src: kt,
                                     alt: "",
