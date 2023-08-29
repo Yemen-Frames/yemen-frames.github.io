@@ -5,9 +5,11 @@
   "display": "standalone",
   "name": "Mohammed Beshr",
   "orientation": "portrait-primary",
-  "scope": "/",
   "short_name": "Mohammed Beshr",
   "start_url": "/",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "handle_links": "preferred",
   "theme_color": "#ffffff",
   "categories": [
     "photo"
