@@ -13334,7 +13334,7 @@
                               id: "uploader-input",
                               type: "file",
                               accept: "image/png, image/gif, image/jpeg",
-                              style: { display: "inline-block" },
+                              style: { display: "inline-block" }
                               onChange: function (e) {
                                 var t;
                                 if ((e.preventDefault(), e.dataTransfer))
