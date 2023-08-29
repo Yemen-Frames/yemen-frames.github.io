@@ -1,37 +1,32 @@
-{  
-"name": "Mohammed Beshr",  
-"short_name": "Mohammed Beshr",  
-"icons": [
-    {      
-"src": "/android-chrome-192x192.png",      
-"sizes": "192x192",      
-"type": "image/png",
-"purpose": "any"
-    },
-    {      
-"src": "/android-chrome-512x512.png",      
-"sizes": "512x512",      
-"type": "image/png",
-"purpose": "maskable"
-    }
-  ],  
-"theme_color": "#ffffff",  
-"background_color": "#ffffff",  
-"display": "standalone",  
-"display_override": [    
-"standalone",    
-"browser",    
-"window-controls-overlay",    
-"fullscreen"
-  ],  
-"lang": "ar",  
-"orientation": "portrait-primary",  
-"dir": "rtl",  
-"start_url": "https://frmye.glitch.me/",  
-"id": "mb",  
-"description": "Add Frame To pics",  
-"categories": [    
-"photo"
-  ],  
-    } 
-    
+{
+  "background_color": "#2b5797",
+  "description": "Add Frame To pics",
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "Mohammed Beshr",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Mohammed Beshr",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "photo"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+     "src": "/android-chrome-512x512.png",
+     "sizes": "512x512",
+     "type": "image/png",
+     "purpose": "any"
+     }
+  ],
+  "shortcuts": [],
+  "lang": "ar",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "browser"
+  ],
+  "id": "mb"
+} 
