@@ -16,6 +16,19 @@
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
+  "display_override": [
+    "standalone",
+    "browser",
+    "window-controls-overlay",
+    "fullscreen"
+  ],
+  "lang": "ar",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
   "start_url": "https://frmye.glitch.me/",
-  "dir": "rtl"
+  "id": "mb",
+  "description": "Add Frame To pics",
+  "categories": [
+    "photo"
+  ]
 }
