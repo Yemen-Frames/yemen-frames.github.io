@@ -13318,11 +13318,12 @@
                                   src: gt,
                                   style: { width: "350px" },
                                 }),
+                                /* Icon Upload */
                                 (0, G.jsx)("div", {
                                   className: "m-3",
                                   children: (0, G.jsx)("img", {
                                     src: Et,
-                                    className: "",
+                                    className: "icons up",
                                     style: { maxWidth: "300px" },
                                   }),
                                 }),
