@@ -13207,7 +13207,8 @@
                               (0, G.jsx)("li", {
                                 children: (0, G.jsx)("a", {
                                   href: "https://www.facebook.com/MohammedBeshr0/",
-                                  children: (0, G.jsx)("svg", {
+                                  children: (0, G.jsx)("img", {
+                                    className: "icons fb",
                                     src: bt,
                                     alt: "",
                                   }),
@@ -13217,6 +13218,7 @@
                                 children: (0, G.jsx)("a", {
                                   href: "https://www.youtube.com/channel/UCLrfHkdTVsqkb2vORWIvDGw ",
                                   children: (0, G.jsx)("img", {
+                                    className: "icons yt",
                                     src: wt,
                                     alt: "",
                                   }),
@@ -13234,7 +13236,7 @@
                               (0, G.jsx)("li", {
                                 children: (0, G.jsx)("a", {
                                   href: "https://instagram.com/MohammedBeshrye/",
-                                  children: (0, G.jsx)("img", {
+                                  children: (0, G.jsx)("img", {                                                   className: "icons in",
                                     src: kt,
                                     alt: "",
                                   }),
