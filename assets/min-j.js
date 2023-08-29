@@ -13207,7 +13207,7 @@
                               (0, G.jsx)("li", {
                                 children: (0, G.jsx)("a", {
                                   href: "https://www.facebook.com/MohammedBeshr0/",
-                                  children: (0, G.jsx)("img", {
+                                  children: (0, G.jsx)("svg", {
                                     src: bt,
                                     alt: "",
                                   }),
