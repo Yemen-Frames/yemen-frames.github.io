@@ -23,10 +23,5 @@
   ],
   "shortcuts": [],
   "lang": "ar",
-  "display_override": [
-    "window-controls-overlay",
-    "standalone",
-    "browser"
-  ],
   "id": "mb"
-} 
+}
