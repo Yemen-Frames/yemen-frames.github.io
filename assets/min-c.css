@@ -47,7 +47,6 @@ i.bi.bi-youtube {
     --bs-text-opacity: 1;
     color: var(--bs-secondary-color)!important;
 }
-
 .bg-body-tertiary {
     --bs-bg-opacity: 1;
     background-color: rgba(var(--bs-tertiary-bg-rgb),var(--bs-bg-opacity))!important;
