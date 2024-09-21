@@ -22,7 +22,7 @@ mathjax:            false
 # Sitemap
 sitemap:
   exclude:
-    - '/offline.html'
+    - 'offline.html'
 # Comments
 disqus_shortname:  
 
