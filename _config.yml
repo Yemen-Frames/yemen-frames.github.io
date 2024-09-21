@@ -19,7 +19,10 @@ kramdown:
   enable_coderay:   false
 mathjax:            false
 
-
+# Sitemap
+sitemap:
+  exclude:
+    - '/offline.html'
 # Comments
 disqus_shortname:  
 
