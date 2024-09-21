@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'mbeshrlog.png'
 locale:             ar_YE
-url:                https://mbeshr.github.io
+url:                https://yemen-frames.github.io
 
 # Jekyll
 permalink:          /:title/
